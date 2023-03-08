@@ -1,0 +1,1 @@
+dotnet run --project CollectionIteration\CollectionIteration.csproj -c Release -f net48 net6.0 net7.0
